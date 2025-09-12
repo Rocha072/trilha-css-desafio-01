@@ -41,7 +41,8 @@ section {
 }
 .banner-content p{
     font-size : 1.25rem;
-    margin: 16px 0 12px;
+    margin: 20px 0 20px;
+    
 }
 
 .banner-content .logo{
@@ -55,16 +56,18 @@ section {
 }
 
 .banner button{
-    color:#1472B7;
-    font-size: 2rem;
+    color:#3BA1CD;
+    font-size: 1.4rem;
     font-weight: bold;
     padding: 16px 32px;
+    letter-spacing: 3px;
     text-transform: uppercase;
     background-color:transparent;
     border-image:linear-gradient(#3BA1CD, #1572B7);
     border-image-slice:10;
     border-radius:30px;
     cursor: pointer;
+    margin-bottom: 70px;
 }
 
 .banner .logo img{
@@ -75,7 +78,7 @@ section {
 }
 
 h2 {
-    text-align: center;
+    
     letter-spacing: 3px;
     word-spacing: 10px;
     color:#3BA1CD;
@@ -106,4 +109,53 @@ h2 {
     padding: 16px;
     border-radius: 100px;
     box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .6);
+}
+
+.module span{
+    color: #3BA1CD;
+}
+
+#transform-world{
+    
+    background-image: url(./images/woman-code.png);
+    background-size: cover;
+    border-bottom: 1px solid #33A8DB80;
+    border-top: 1px solid #33A8DB80;
+    background-attachment: fixed;
+    padding: 200px;
+}
+
+#transform-world p{
+    font-size: 3rem; 
+    font-weight: bold;
+    text-transform: lowercase;
+    max-width: 290px;
+    text-shadow: 3px 3px #3BA1CD;
+}
+
+#professional-challenges{
+    text-align: center;
+    width: 820px;
+}
+
+#professional-challenges p{
+    margin-top: 30px;
+}
+
+footer{
+    border-top: 1px solid #33A8DB80;
+    background-image: linear-gradient(black, rgba(50, 168, 219, .2));
+    height: 180px;
+    text-align: center;
+    padding-top: 80px;
+}
+
+.dio-logo{
+    width: 300px;
+}
+
+footer a{
+    text-decoration: none;
+    color: #3BA1CD;
+    font-weight: bold;
 }
