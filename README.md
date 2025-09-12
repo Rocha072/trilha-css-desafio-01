@@ -3,7 +3,7 @@
 Meu primeiro desafio da Trilha de CSS da DIO! 
 Landing Page com HTML e CSS.
 
-![Clique aqui]([https://rocha072.github.io/trilha-css-desafio-01]) para acessar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui](https://rocha072.github.io/trilha-css-desafio-01) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 Preview da página:
 
